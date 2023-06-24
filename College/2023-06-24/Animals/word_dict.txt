@@ -1,0 +1,6 @@
+Dog
+Cat
+Racoon
+Dog
+Mouse
+Cat
